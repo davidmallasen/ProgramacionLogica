@@ -1,0 +1,11 @@
+[maria, me, dijo, :, '"', juan, es, mi, amigo, '"'].
+[maria, me, dijo, que, juan, era, su, amigo].
+
+[miguel, me, dijo, :, '"', estoy, contento, de, verte, '"'].
+[miguel, me, dijo, que, estaba, contento, de, verme].
+
+[lucia, me, dijo, :, '"', necesito, un, cambio, en, mi, vida, '"'].
+[lucia, me, dijo, que, necesitaba, un, cambio, en, su, vida].
+
+[luis, me, pregunto, :, '"', '¿', estas, ocupada, esta, noche, '?', '"'].
+[luis, me, pregunto, que, si, estaba, ocupada, esa, noche].
